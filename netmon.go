@@ -1,4 +1,4 @@
-package netmon
+package main
 
 import (
 	"bufio"
