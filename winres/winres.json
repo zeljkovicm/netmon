@@ -1,0 +1,61 @@
+{
+  "RT_GROUP_ICON": {
+    "APP": {
+      "0000": [
+        "netmon256.png",
+        "netmon128.png"
+      ]
+    }
+  },
+  "RT_MANIFEST": {
+    "#1": {
+      "0409": {
+        "identity": {
+          "name": "",
+          "version": ""
+        },
+        "description": "",
+        "minimum-os": "win7",
+        "execution-level": "as invoker",
+        "ui-access": false,
+        "auto-elevate": false,
+        "dpi-awareness": "system",
+        "disable-theming": false,
+        "disable-window-filtering": false,
+        "high-resolution-scrolling-aware": false,
+        "ultra-high-resolution-scrolling-aware": false,
+        "long-path-aware": false,
+        "printer-driver-isolation": false,
+        "gdi-scaling": false,
+        "segment-heap": false,
+        "use-common-controls-v6": false
+      }
+    }
+  },
+  "RT_VERSION": {
+    "#1": {
+      "0000": {
+        "fixed": {
+          "file_version": "1.0.0.4",
+          "product_version": "1.0.0.4"
+        },
+        "info": {
+          "0409:04b0": {
+            "Comments": "Monitors network traffic per IP address.",
+            "CompanyName": "NCR Voyix",
+            "FileDescription": "Network Traffic Monitor",
+            "FileVersion": "1.0.0.4",
+            "InternalName": "NetMon",
+            "LegalCopyright": "© 2025 Milan Zeljkovic @NCR Voyix. All rights reserved.",
+            "LegalTrademarks": "",
+            "OriginalFilename": "netmon.exe",
+            "PrivateBuild": "",
+            "ProductName": "Network Monitor",
+            "ProductVersion": "1.0.0.4",
+            "SpecialBuild": ""
+          }
+        }
+      }
+    }
+  }
+}
